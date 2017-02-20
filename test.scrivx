@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="DESKTOP-41URI4R" Modified="2017-02-15 10:57:50 +0000" ModID="54784094-8B53-4E62-992A-6E6C9F09EC78">
+    <Binder>
+        <BinderItem ID="0" UUID="BAFD5F6D-04A8-4A2E-AF65-4618A3A0FD90" Created="2017-02-09 06:52:18 +0000" Modified="2017-02-09 06:57:49 +0000" Type="DraftFolder">
+            <Title>正文</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="C31A240A-AD91-4903-893B-24D1EC182A23" Created="2017-02-09 06:52:18 +0000" Modified="2017-02-15 07:16:53 +0000" Type="Text">
+                    <Title>序章 古兰贝尔之乱</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3573,3573</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="4" UUID="95CD500D-C330-4956-ACFC-9C55B5E99E4D" Created="2017-02-09 06:57:10 +0000" Modified="2017-02-09 06:58:01 +0000" Type="Folder">
+            <Title>资料夹</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="6" UUID="63CC57B2-68B3-4033-8C2B-08029991845C" Created="2017-02-09 07:11:48 +0000" Modified="2017-02-09 07:12:06 +0000" Type="Text">
+                    <Title>人名大全</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>16758,16758</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" UUID="8BE8A283-4667-4842-A75A-31E06EC59A82" Created="2017-02-09 07:37:21 +0000" Modified="2017-02-09 08:00:50 +0000" Type="Text">
+                    <Title>十二圣战士</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>27,27</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" UUID="042D29C8-D5CE-4BE2-960A-C679D01F93B5" Created="2017-02-09 08:04:50 +0000" Modified="2017-02-09 08:09:44 +0000" Type="Text">
+                    <Title>费滋Faithe</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="8C84436D-A98D-4D30-B8E3-A69AC4F47893" Created="2017-02-09 08:05:44 +0000" Modified="2017-02-09 08:10:08 +0000" Type="Text">
+                    <Title>费怡Fay</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" UUID="4B4C6BAD-A987-4A4E-90FC-89539A09C40F" Created="2017-02-09 08:07:25 +0000" Modified="2017-02-09 08:10:21 +0000" Type="Text">
+                    <Title>尤莱亚Uriah</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" UUID="D1C5EF99-2D86-44B2-934E-CA7314AE70C5" Created="2017-02-09 08:08:54 +0000" Modified="2017-02-09 08:10:31 +0000" Type="Text">
+                    <Title>盖理Gary</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="12" UUID="0CEB0935-D8A5-4529-BF31-213D3F1DE2A3" Created="2017-02-09 08:11:49 +0000" Modified="2017-02-09 08:12:12 +0000" Type="Text">
+                    <Title>史丹尼Stanley</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" UUID="791FCD92-81A8-4A47-83DD-FE9242F3D641" Created="2017-02-09 08:12:46 +0000" Modified="2017-02-09 08:13:11 +0000" Type="Text">
+                    <Title>迪恩Dean</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="5" UUID="B7122999-D646-4798-BFBE-D735B0BE5AB9" Created="2017-02-09 06:57:15 +0000" Modified="2017-02-09 08:42:37 +0000" Type="Text">
+                    <Title>雷尔夫Ralap</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8,8</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="15" UUID="44EF16A7-1EB6-4093-B2B0-91B33C0A667D" Created="2017-02-09 08:13:57 +0000" Modified="2017-02-09 08:15:13 +0000" Type="Text">
+                    <Title>布伦达Breenda</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="14" UUID="7A87BB92-C6EC-44E3-9D0E-5B96DF34CB95" Created="2017-02-09 08:13:25 +0000" Modified="2017-02-09 08:13:40 +0000" Type="Text">
+                    <Title>科克Kirk</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="16" UUID="AD6BBFF2-E303-4ED1-B715-C818DFFE3431" Created="2017-02-12 06:43:41 +0000" Modified="2017-02-12 06:45:24 +0000" Type="Text">
+                    <Title>康斯坦丝</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="17" UUID="392E3A48-25FC-4C79-8744-5D268D419DF9" Created="2017-02-12 07:07:04 +0000" Modified="2017-02-12 07:07:29 +0000" Type="Text">
+                    <Title>风雷</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="6C014542-8AC8-444F-9A82-F8279D062A6C" Created="2017-02-09 06:52:18 +0000" Modified="2017-02-09 06:52:18 +0000" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="88DE38AD-4739-4AAD-8165-865E2F135657" Created="2017-02-09 06:52:18 +0000" Modified="2017-02-09 06:52:18 +0000" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <Collections>
+        <Collection Type="Binder" ID="623f7e72-0183-4b16-a039-eae232b3c0e1" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="7b037ddb-fa2c-4156-9fc7-200a361b0a72" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+    </ProjectTargets>
+    <PrintSettings PaperType="A4" LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
